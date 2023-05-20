@@ -4,7 +4,7 @@ Hi 👋 My name is Ilya
 I'm currently learning python and a lot of things about programing
 ------------------------------------------------------------------
 
-I started learning programing in 13.03.2022 because programming allows you to develop endlessly
+I started learning programing in March 2022 because programming allows you to develop endlessly
 
 * 🌍  I'm based in Kramatorsk
 * ✉️  You can contact me at [ballukranian@gmail.com](mailto:ballukranian@gmail.com)
